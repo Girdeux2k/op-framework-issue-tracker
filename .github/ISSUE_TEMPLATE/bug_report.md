@@ -6,19 +6,19 @@ labels: bug
 ---
 
 **Reporter:**
-Who is reporting this? Please include discord name and your steam profile.
+Who is reporting this? Girdeux#9675
 
 **Summary:**
-Write a short summary of what you're experiencing.
+When trying to pull Job Vehicles such as Tow Truck, Phantom Semi Truck, Weasel News Van from Garage they show up as CARNOTFOUND
 
 **Steps to Reproduce:**
-Include what steps that are needed in order to reproduce the issue.
+Go to any Garage and they show up in the list as CARNOTFOUND
 
 **Expected Results:**
-What are the expected results?
+I expect to see thier Name and Condition and What garage they are in and be able to use them.
 
 **Actual Results:**
-What are the actual results?
+When you retreive them to the garage you are at and you pull them out of the garage they are invisible and are listed as OUT.
 
 ## Additional Information
 
@@ -26,13 +26,13 @@ What are the actual results?
 If suitable, include some screenshots. You also *have* to include screenshots of your F8 console.
 
 **Game Resolution:**
-What is your game's resolution?
+1680x1050
 
 **Player Data:**
-Write /info whilst ingame and provide the information you're given.
+Character ID: 1146 - Job Data:Mechanic, Los Santos Customs, Tow Driver
 
 **Server:**
-What server/community are you from? Main, India, Bangladesh, etc.
+What server/community are you from? Main
 
 **Notes:**
-For anything else noteworthy.
+You can retreive them but the name doesn't change.  Thought it was because Garage E became Garage F at first but had a spare vehicle in that garage that wasn't affected.
